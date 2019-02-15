@@ -18,6 +18,6 @@
     "Client activity from {{from}} to {{to}}": "Δραστηριότητα του πελάτη από {{from}} σε {{to}}",
     "{{percent}}% of {{total}}": "{{percent}}% από {{total}}",
     "No Clients Found": "Δε βρέθηκαν πελάτες",
-    "No Domains Found": "",
-    "Queries Answered By Destination": ""
+    "No Domains Found": "Δε βρέθηκαν διευθύνσεις",
+    "Queries Answered By Destination": "Ερωτήματα που απαντήθηκαν κατά προορισμό"
 }
