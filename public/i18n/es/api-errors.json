@@ -20,6 +20,6 @@
     "shared_memory_lock": "Error al bloquear la memoria compartida",
     "API Error: {{error}}": "Error de API: {{error}}",
     "reload_dns_error": "Error al recargar el servidor DNS",
-    "shared_memory_version": "Detectada versión incompatible de memoria compartida",
+    "shared_memory_version": "Versión incompatible de memoria compartida detectada",
     "ftl_database": "Error al interactuar con la base de datos FTL"
 }
