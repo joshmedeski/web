@@ -19,12 +19,12 @@
     "IPv4 address": "Διεύθυνση IPv4",
     "IPv6 address": "Διεύθυνση IPv6",
     "Hostname": "Όνομα υπολογιστή",
-    "Branch": "",
+    "Branch": "Κλάδος",
     "Hash": "",
-    "Tag": "",
-    "Only forward public reverse lookups": "",
-    "Processing...": "",
-    "Successfully saved settings": "",
-    "Detected custom upstream server": "",
-    "DNS Options": ""
+    "Tag": "Ετικέτα",
+    "Only forward public reverse lookups": "Προώθηση μόνο δημοσίων ανάστροφων αναζητήσεων",
+    "Processing...": "Επεξεργασία...",
+    "Successfully saved settings": "Οι προτιμήσεις αποθηκεύτηκαν επιτυχώς",
+    "Detected custom upstream server": "Ανιχνεύθηκε προσαρμοσμένος διακομιστής Dns",
+    "DNS Options": "Επιλογές DNS"
 }
