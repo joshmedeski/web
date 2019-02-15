@@ -24,11 +24,11 @@
     "Apply": "Uygula",
     "Disable": "Devre Dışı",
     "Permanently": "Kalıcı olarak",
-    "For {{time}} seconds": "",
-    "For {{time}} minutes": "",
-    "Custom time": "",
-    "Enable": "",
-    "Cancel": "",
-    "Seconds": "",
-    "Minutes": ""
+    "For {{time}} seconds": "{{time}} saniye boyunca",
+    "For {{time}} minutes": "{{time}} dakika boyunca",
+    "Custom time": "Özel zaman",
+    "Enable": "Etkin",
+    "Cancel": "İptal",
+    "Seconds": "Saniye",
+    "Minutes": "Dakika"
 }
