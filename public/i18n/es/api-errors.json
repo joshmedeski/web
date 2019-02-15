@@ -18,8 +18,8 @@
     "shared_memory_open": "shared_memory_open",
     "shared_memory_read": "shared_memory_read",
     "shared_memory_lock": "shared_memory_lock",
-    "API Error: {{error}}": "",
-    "reload_dns_error": "",
-    "shared_memory_version": "",
-    "ftl_database": ""
+    "API Error: {{error}}": "Error de API: {{error}}",
+    "reload_dns_error": "No se pudo re-cargar el servidor DNS",
+    "shared_memory_version": "Versión incompatible de memoria compartida detectada",
+    "ftl_database": "Error al interactuar con la base de datos de la FTL"
 }
