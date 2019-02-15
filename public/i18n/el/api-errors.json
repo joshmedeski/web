@@ -3,7 +3,7 @@
     "gravity_error": "Απέτυχε η δημιουργία του blocklist",
     "ftl_connection_fail": "Απέτυχε η σύνδεση με FTL",
     "ftl_read_error": "Σφάλμα κατά την ανάγνωση από FTL",
-    "ftl_eom_error": "",
+    "ftl_eom_error": "Αναγνώσθηκε απροσδόκητου EOM από FTL",
     "not_found": "Δεν βρέθηκε",
     "already_exists": "Το στοιχείο υπάρχει ήδη",
     "invalid_domain": "Μη έγκυρος τομέας",
