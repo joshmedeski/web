@@ -2,7 +2,7 @@
     "Adding {{domain}}...": "Προσθήκη {{domain}}...",
     "Successfully added {{domain}}": "Προστέθηκε στην λίστα",
     "Failed to add {{domain}}": "Απέτυχε να προστεθεί",
-    "Note: Whitelisting a subdomain of a wildcard blocked domain is not possible.": "",
+    "Note: Whitelisting a subdomain of a wildcard blocked domain is not possible.": "Σημείωση: Η προσθήκη στη λευκή λίστα μιας υποδιεύθυνσης από μια διεύθυνση που είναι αποκλεισμένη με χαρακτήρα μπαλαντέρ είναι αδύνατη.",
     "Note: Only the domain and subdomains of the blocked domain will be blocked.": "Σημείωση: Μόνο οι διευθύνσεις και υποδιευθύνσεις της αποκλεισμένης διεύθυνσης θα αποκλείονται.",
     "Add a domain (example.com or sub.example.com)": "Προσθέστε μια διεύθυνση (example.com ή sub.example.com)",
     "{{domain}} is already added": "{{domain}} έχει ήδη προστεθεί ",
