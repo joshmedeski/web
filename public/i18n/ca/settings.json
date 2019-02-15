@@ -24,7 +24,7 @@
     "Tag": "Etiqueta",
     "Only forward public reverse lookups": "Reenviar només les cerques inverses públiques",
     "Processing...": "Processant...",
-    "Successfully saved settings": "",
-    "Detected custom upstream server": "",
+    "Successfully saved settings": "Configuració guardada correctament",
+    "Detected custom upstream server": "S'ha detectat un servidor extern personalitzat",
     "DNS Options": "Opcions DNS"
 }
