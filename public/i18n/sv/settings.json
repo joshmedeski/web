@@ -20,7 +20,7 @@
     "IPv6 address": "IPv6-adress",
     "Hostname": "Värdnamn",
     "Branch": "Förgrening",
-    "Hash": "",
+    "Hash": "Hash",
     "Tag": "Tagg",
     "Only forward public reverse lookups": "Vidarebefordra endast publika omvända sökningar",
     "Processing...": "Bearbetar...",
