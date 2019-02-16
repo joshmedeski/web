@@ -14,7 +14,7 @@
     "config_parsing_error": "Error al analizar la configuración",
     "invalid_setting_value": "Valor de configuración inválido",
     "restart_dns_error": "Error al reiniciar el servidor DNS",
-    "dnsmasq_config_write": "Error al generar la configuración de dnsmasq",
+    "dnsmasq_config_write": "Error al generar la configuración para dnsmasq",
     "shared_memory_open": "Error al abrir la memoria compartida",
     "shared_memory_read": "Error al leer desde la memoria compartida",
     "shared_memory_lock": "Error al bloquear la memoria compartida",
