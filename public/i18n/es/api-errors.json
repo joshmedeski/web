@@ -3,7 +3,7 @@
     "gravity_error": "Error al crear la lista de bloqueo",
     "ftl_connection_fail": "Error al conectar con FTL",
     "ftl_read_error": "Error de lectura desde FTL",
-    "ftl_eom_error": "Error_eom_FTL",
+    "ftl_eom_error": "Lectura EOM inesperada desde FTL",
     "not_found": "No se encontró",
     "already_exists": "El elemento ya existe",
     "invalid_domain": "Dominio inválido",
